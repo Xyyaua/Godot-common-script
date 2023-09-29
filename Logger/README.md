@@ -40,3 +40,5 @@ Level of the log:
     - Change `SRC_NAME` to `SCR_NAME`
 - 1.5
     - Add log level enable status
+- 1.5.1
+    - Change print error function
